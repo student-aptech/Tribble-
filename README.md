@@ -6,3 +6,5 @@
 3) Modern & Minimal Design for a seamless user experience.
 
 4) Fast Performance with efficient loading speed.
+
+5) Built with HTML, CSS, JavaScript, and Bootstrap for a responsive and dynamic user experience.
