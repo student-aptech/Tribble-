@@ -1,4 +1,4 @@
-# Tribble
+# Xurya
 1) Built from Scratch with clean and optimized code.
 
 2) Fully Responsive across all devices (mobile, tablet, desktop).
